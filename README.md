@@ -3,14 +3,13 @@
 
 
 # *Yves NSENGIYUMVA*
-### *An Entry-Level Data Analyst.* 
+## An Entry-Level Data Analyst.
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/JoeYves) 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/yves-nsengiyumva-a108a117b/)  
 
-
 <hr>
-*I'am Yves a poudly Rwandan, and I am an entry-Level Data Analyst. I believe that with passion, patience and hardworking, you can achieve what you want to and bring your dreams into reality.
-I love Data related things and always, i'm much eager to learn more, face some challenges to sharpen my career interest and also love collaboration as well.*
+I'am Yves a poudly Rwandan, and I am an entry-Level Data Analyst. I believe that with passion, patience and hardworking, you can achieve what you want to and bring your dreams into reality.
+I love Data related things and always, i'm much eager to learn more, face some challenges to sharpen my career interest and also love collaboration as well.
 
 
 ## *Skills: *    
