@@ -1,5 +1,5 @@
 
-![An Entry-Level Data Analyst.](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
+![An Entry-Level Data Analyst.](pic_data_wrangling.jpeg)
 
 
 # *Yves NSENGIYUMVA*
