@@ -1,9 +1,7 @@
 
 ![An Entry-Level Data Analyst.](pic_data_wrangling.jpeg)
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/JoeYves) 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/yves-nsengiyumva-a108a117b/)  
-<hr>
+
 # Yves NSENGIYUMVA
 #### An Entry-Level Data Analyst.
 
@@ -20,6 +18,10 @@ a Data related lover, a self confident and passionate about cleaning from untidy
 <a href="https://www.coursera.org/learn/statistics-for-data-science-python" style="font-size: 16px; color: blue;">COURSERA</a>
 
 
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/JoeYves) 
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/yves-nsengiyumva-a108a117b/)  
+<hr>
 
 
 
