@@ -17,9 +17,8 @@ a Data related lover, a self confident and passionate about cleaning from untidy
 * | 💻Tableau |
 
 🔭 I’m currently working on Cleaning, Analyzing and revealing some insights from COVID-19 Data set from Kaggle. also currently learning "Statistics for Data Science with Python" from
-<a href="https://www.coursera.org/learn/statistics-for-data-science-python" style="font-size: 16px; color: blue;">
-  COURSERA
-</a>
+<a href="https://www.coursera.org/learn/statistics-for-data-science-python" style="font-size: 16px; color: blue;">COURSERA</a>
+
 
 
 
