@@ -3,8 +3,9 @@
 
 
 # *Yves NSENGIYUMVA*
-### *An Entry-Level Data Analyst.* [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/JoeYves) 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/Yves NSENGIYUMVA/)  
+### *An Entry-Level Data Analyst.* 
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/JoeYves) 
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/yves-nsengiyumva-a108a117b/)  
 
 
 <hr>
