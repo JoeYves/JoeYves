@@ -15,8 +15,8 @@ I love Data related things and always, i'm much eager to learn more, face some c
 * | 💻Python |
 * | 💻Tableau |
 
-- 🔭 I’m currently working on Cleaning, Analyzing and revealing some insights from COVID-19 Data set from Kaggle. 
-- 🌱 I’m currently learning "Statistics for Data Science with Python"  [link](https://www.coursera.org/learn/statistics-for-data-science-python/home/week/4) 
+🔭 I’m currently working on Cleaning, Analyzing and revealing some insights from COVID-19 Data set from Kaggle. 
+🌱 I’m currently learning "Statistics for Data Science with Python"  [link](https://www.coursera.org/learn/statistics-for-data-science-python/home/week/4) 
 
 
 
