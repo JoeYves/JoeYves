@@ -24,7 +24,7 @@ COURSERA
 
 
 <a href="https://www.coursera.org/learn/statistics-for-data-science-python?" target="_blank">
-  <img src="https://github.com/JoeYves/JoeYves/blob/main/Coursera3.png" alt="Coursera" width="40" height="15">
+  <img src="https://github.com/JoeYves/JoeYves/blob/main/Coursera3.png" alt="Coursera" width="40" height="10">
 
 
 
