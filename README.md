@@ -33,8 +33,7 @@ Enthusiastic, highly motivated, and detail-oriented professional with skills in 
 * | Decision Making |: Generating meaningful insights from data.
 * | Teamwork |: Collaborative learning and working with others.
 
-Visit my<a href="https://github.com/JoeYves/Employee-Data-Sql-Portfolio/blob/main/README.md">portfolio project</a> and explore more from Data Exploration SQL file to the final cleaned CS file.
-
+Visit my <a href="https://github.com/JoeYves/Employee-Data-Sql-Portfolio/blob/main/README.md">portfolio project</a> and explore more, from the data exploration SQL file to the final cleaned CS file.
 
 
 
