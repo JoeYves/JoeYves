@@ -31,7 +31,9 @@ Enthusiastic, highly motivated, and detail-oriented professional with skills in 
 * | Critical Thinking |: Interpreting and evaluating complex datasets to make decisions.
 * | Problem Solving |: Able to handle any challenges encountered when processing data for identifying trends and patterns.
 * | Decision Making |: Generating meaningful insights from data.
-* * | Teamwork |: Collaborative learning and working with others.
+* | Teamwork |: Collaborative learning and working with others.
+
+Visit my<a href="https://github.com/JoeYves/Employee-Data-Sql-Portfolio/blob/main/README.md">portfolio project</a> and explore more from Data Exploration SQL file to the final cleaned CS file.
 
 
 
