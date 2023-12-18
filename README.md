@@ -17,12 +17,12 @@ Enthusiastic, highly motivated, and detail-oriented professional with skills in 
 <a href="https://www.coursera.org/learn/statistics-for-data-science-python" style="font-size: 16px; color: blue;">COURSERA</a>.
 
 ##Google Data Analytics Professional Certificates earned:
-<a href="https://www.coursera.org/account/accomplishments/verify/DVPNKFWRHPWA ">Share Data Through the Art of Visualization</a>
-<a href="https://www.coursera.org/account/accomplishments/verify/5JVM7LYBVBS7">Ask Questions to Make Data-Driven Decisions</a>
-<a href="https://www.coursera.org/account/accomplishments/verify/RBQ2QBE2KFBX">Foundations: Data, Data, Everywhere</a>
-<a href="https://www.coursera.org/account/accomplishments/verify/AH92D5ZHUFYH">Analyze Data to Answer Questions</a>
-<a href="https://www.coursera.org/account/accomplishments/verify/MDRRVDB75WVC">Prepare Data for Exploration</a>
-<a href="https://www.coursera.org/account/accomplishments/verify/GZ4SWLYKHUGM">Process Data from Dirty to Clean</a>
+* <a href="https://www.coursera.org/account/accomplishments/verify/RBQ2QBE2KFBX">Foundations: Data, Data, Everywhere</a>
+* <a href="https://www.coursera.org/account/accomplishments/verify/5JVM7LYBVBS7">Ask Questions to Make Data-Driven Decisions</a>
+* <a href="https://www.coursera.org/account/accomplishments/verify/MDRRVDB75WVC">Prepare Data for Exploration</a>
+* <a href="https://www.coursera.org/account/accomplishments/verify/GZ4SWLYKHUGM">Process Data from Dirty to Clean</a>
+* <a href="https://www.coursera.org/account/accomplishments/verify/AH92D5ZHUFYH">Analyze Data to Answer Questions</a>
+* <a href="https://www.coursera.org/account/accomplishments/verify/DVPNKFWRHPWA ">Share Data Through the Art of Visualization</a>
 
 ## Technical Skills:   
 * | 💻SQL |: For querying, manipulating, managing, and processing structured data in relational databases.
