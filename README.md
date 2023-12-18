@@ -11,17 +11,19 @@
 
 #### An Entry-Level Data Analyst.
 
-I'm Yves a poudly Rwandan, an entry-Level Data Analyst. persuing what I love by believe that with passion, patience and hardworking, you can achieve what you want to and bring your dreams into reality.
-a Data related lover, a self confident and passionate about cleaning from untidy to representable data. I'm always much eager to learn more, face some challenges to sharpen my career interest's perspectives and also love collaboration.
+Enthusiastic, highly motivated, and detail-oriented professional with skills in data cleaning, management, and manipulation using SQL, with ongoing certifications in Professional Google Data Analytics and Statistics for Data Science with Python. I am committed to continuous learning and adaptability, keeping up with the latest developments in my field, and staying at the forefront of industry trends and emerging technologies. Prepared to contribute a unique and valuable blend of skills, knowledge, and enthusiasm to the rapidly evolving field of data science.
 
-## Skills:   
+## Technical Skills:   
+* | 💻SQL |: For querying, manipulating, managing, and processing structured data in relational databases.
+* | 💻Python |: To analyze the data
+* | Database Management|: Understanding database structures and writing SQL queries with MySql.
+* | Critical Thinking |: Interpreting and evaluating complex datasets to make decisions.
+* | Problem Solving |: Able to handle any challenges encountered when processing data for identifying trends and patterns.
+* | Decision Making |: Generating meaningful insights from data.
+* * | Teamwork |: Collaborative learning and working with others.
 
-* | 💻SQL |
-* | 💻Python |
-* | 💻Tableau |
-
-🔭 I’m currently working on Cleaning, Analyzing and revealing some insights from COVID-19 Data set from Kaggle. also currently learning "Statistics for Data Science with Python" from
-<a href="https://www.coursera.org/learn/statistics-for-data-science-python" style="font-size: 16px; color: blue;">COURSERA</a>
+🔭 I’m currently learning Google Data Analytics and Statistics for Data Science with Python Professional Certificates from
+<a href="https://www.coursera.org/learn/statistics-for-data-science-python" style="font-size: 16px; color: blue;">COURSERA</a>.
 
 
 
