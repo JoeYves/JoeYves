@@ -12,7 +12,7 @@
 
 #### An Entry-Level Data Analyst.
 
-Enthusiastic, highly motivated, and detail-oriented professional with skills in data cleaning, management, and manipulation using SQL,. Currently pursuing certifications in Professional Google Data Analytics and Statistics for Data Science with Python. I am committed to continuous learning and adaptation, staying at the forefront of industry trends and emerging technologies. Ready to contribute a unique and valuable blend of skills, knowledge, and enthusiasm to the rapidly evolving field of data science.
+Enthusiastic, highly motivated, and detail-oriented professional with skills in data cleaning, management, and manipulation using SQL. Currently pursuing certifications in Professional Google Data Analytics and Statistics for Data Science with Python. I am committed to continuous learning and adaptation, staying at the forefront of industry trends and emerging technologies. Ready to contribute a unique and valuable blend of skills, knowledge, and enthusiasm to the rapidly evolving field of data science.
 
 🔭 I’m currently learning Google Data Analytics and Statistics for Data Science with Python Professional Certificates from
 <a href="https://www.coursera.org/learn/statistics-for-data-science-python" style="font-size: 16px; color: blue;">COURSERA</a>.
