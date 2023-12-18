@@ -16,7 +16,7 @@ Enthusiastic, highly motivated, and detail-oriented professional with skills in 
 🔭 I’m currently learning Google Data Analytics and Statistics for Data Science with Python Professional Certificates from
 <a href="https://www.coursera.org/learn/statistics-for-data-science-python" style="font-size: 16px; color: blue;">COURSERA</a>.
 
-##Google Data Analytics Professional Certificates earned:
+## Google Data Analytics Professional Certificates earned:
 * <a href="https://www.coursera.org/account/accomplishments/verify/RBQ2QBE2KFBX">Foundations: Data, Data, Everywhere</a>
 * <a href="https://www.coursera.org/account/accomplishments/verify/5JVM7LYBVBS7">Ask Questions to Make Data-Driven Decisions</a>
 * <a href="https://www.coursera.org/account/accomplishments/verify/MDRRVDB75WVC">Prepare Data for Exploration</a>
